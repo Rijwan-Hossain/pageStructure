@@ -1,0 +1,91 @@
+
+
+
+
+* { 
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+} 
+
+.template { 
+    width: 1000px;
+    margin: 0 auto;
+} 
+
+.header {
+    background: rgb(128, 199, 228);
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+    padding-top: 15px;
+}
+
+.clear {
+    overflow: hidden;
+}
+
+.slider {
+    background: rgb(29, 228, 161);
+    height: 200px;
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+    padding-top: 145px;
+}
+
+.footer {
+    background: rgb(138, 153, 260);
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+    padding-top: 8px;
+}
+
+
+.content {
+    background: rgb(0, 153, 260);
+    height: 350px;
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+    padding-top: 8px;
+}
+
+
+.content1 {
+    background: salmon;
+    height: 320px;
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+    padding-top: 140px;
+    width: 60%;
+    float: left; 
+
+    margin-left: 25px;
+    margin-top: 10px;
+    /* margin-right: 15px; */
+    margin-bottom: 50px;
+}
+
+
+
+.content2 {
+    background: rgb(201, 65, 235);
+    height: 320px;
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+    padding-top: 140px;
+    width: 32%;
+    float: right;
+    margin-right: 25px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+
+
+
